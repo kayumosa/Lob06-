@@ -5,3 +5,4 @@
 "# Lab06_" 
 "# Lab06--" 
 "# Lab06--" 
+"# Kayumova_Sabina_Lab_06.iml" 
