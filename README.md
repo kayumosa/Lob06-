@@ -8,3 +8,4 @@
 "# Kayumova_Sabina_Lab_06.iml" 
 "# RockPaperScissors-" 
 "# GetLoopy" 
+"# Lab_08_GetMethodicall.iml" 
